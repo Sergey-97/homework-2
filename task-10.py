@@ -15,4 +15,3 @@ if side_2 > side_1:
      print(side_1)
 else:
     print(side_2)
-    
